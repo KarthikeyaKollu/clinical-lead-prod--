@@ -136,9 +136,9 @@ const styles = {
     display: 'flex',
     justifyContent: 'center',
     flexDirection: 'column',
-    alignItems: 'center', 
-    mt: '-30px',
-    mb: '0px',
+    alignItems: 'center',
+    mt: '0', // Change this to '0' or any other desired value
+    mb: '0', // Change this to '0' or any other desired value
     px: '15px',
     '.carousel-container': {
       width: '100%',
@@ -152,7 +152,7 @@ const styles = {
         null,
         'calc(50% + 865px)',
       ],
-      mr: ['auto', null, null, null, null, null, null, '0px'], 
+      mr: ['auto', null, null, null, null, null, null, '0px'],
       ml: 'auto',
       '.react-multi-carousel-item': {
         transition: 'all 0.25s',
@@ -222,7 +222,7 @@ const styles = {
         },
       },
     },
-  },  
+  },
   title: {
     fontSize: [1, 2],
     fontWeight: 700,
