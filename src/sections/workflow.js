@@ -10,27 +10,27 @@ import ArrowEven from 'assets/arrowEven.svg';
 const data = [
   {
     id: 1,
-    title: 'Set disbursement Instructions',
+    title: 'Booking',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Clients can book massage appointments through our user-friendly online platform. They select their preferred massage type, date, and time, making it convenient for them to schedule their relaxation session.',
   },
   {
     id: 2,
-    title: 'Assembly retrieves funds from your account',
+    title: 'Consultation',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Upon arrival at our massage center, clients are greeted by our friendly staff. A brief consultation is conducted to understand their specific needs and preferences, ensuring a personalized and tailored massage experience.',
   },
   {
     id: 3,
-    title: 'Assembly initiates disbursement',
+    title: 'Service',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Our highly skilled massage therapists provide clients with a rejuvenating and therapeutic massage session, using a variety of techniques and premium-quality oils. The service is designed to promote relaxation, reduce stress, and alleviate tension.',
   },
   {
     id: 4,
-    title: 'Customer receives funds payment',
+    title: 'Feedback and Follow-up',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'After the massage, clients are encouraged to provide feedback on their experience. We also offer post-massage recommendations for self-care and may schedule follow-up appointments if needed, ensuring their well-being is our top priority.',
   },
 ];
 
@@ -39,8 +39,8 @@ export default function WorkFlow() {
     <section sx={styles.workflow}>
       <Container>
         <SectionHeader
-          slogan="Whats the function"
-          title="Let’s see how it works"
+          slogan="Let's see"
+          title="How we offer services"
           isWhite={true}
         />
 

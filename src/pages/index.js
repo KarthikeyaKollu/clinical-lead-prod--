@@ -16,6 +16,7 @@ import TestimonialCard from '../sections/testimonial';
 import BlogSection from '../sections/blog-section';
 import Subscribe from '../sections/subscribe';
 import MyTypeformComponent from 'components/MyTypeformComponent';
+import Footer from 'components/footer/footer';
 
 export default function IndexPage() {
   return (
@@ -33,8 +34,8 @@ export default function IndexPage() {
           {/* <Package /> */}
           {/* <TeamSection /> */}
           <TestimonialCard />
-          <BlogSection />
-          <Subscribe />
+          {/* <BlogSection /> */}
+          {/* <Subscribe /> */}
         </Layout>
       </StickyProvider>
     </ThemeProvider>
