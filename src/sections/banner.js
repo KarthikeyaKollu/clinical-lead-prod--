@@ -81,6 +81,7 @@ const styles = {
       img: {
         position: "relative",
         height: [245, "auto"],
+        borderRadius: "20px",
       },
     },
   },

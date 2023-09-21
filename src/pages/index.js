@@ -30,8 +30,8 @@ export default function IndexPage() {
           <Feature />
           <CoreFeature />
           <WorkFlow />
-          <Package />
-          <TeamSection />
+          {/* <Package /> */}
+          {/* <TeamSection /> */}
           <TestimonialCard />
           <BlogSection />
           <Subscribe />

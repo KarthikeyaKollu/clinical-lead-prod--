@@ -48,7 +48,7 @@ export default function Feature() {
     <section sx={{ variant: 'section.feature' }}>
       <Container>
         <SectionHeader
-          slogan="Quality features"
+          slogan="Discover Our Exceptional and"
           title="Amazing useful features"
         />
 

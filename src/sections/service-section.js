@@ -22,24 +22,24 @@ import Smart from 'assets/services/smart.svg';
 import Secure from 'assets/services/secure.svg';
 
 const data = {
-  subTitle: 'our services',
-  title: 'Business Goals Achieved with Design',
+  subTitle: 'Our Services',
+  title: 'Relaxation and Stress Relief',
   features: [
     {
       id: 1,
       imgSrc: Smart,
-      altText: 'Smart Features',
-      title: 'Smart Features',
+      altText: 'Swedish Massage',
+      title: 'Swedish Massage',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Swedish massage is one of the most popular and widely offered massage services. It involves long, gliding strokes, kneading, friction, tapping, and gentle stretching techniques.',
     },
     {
       id: 2,
       imgSrc: Secure,
-      altText: 'Secure Contents',
-      title: 'Secure Contents',
+      altText: 'Deep Tissue Massage',
+      title: 'Deep Tissue Massage',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Deep tissue massage is a therapeutic massage that targets the deeper layers of muscles and connective tissues. ',
     },
   ],
 };
