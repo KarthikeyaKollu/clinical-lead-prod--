@@ -6,3 +6,4 @@ const nextConfiguration = {
 };
 
 module.exports = withPlugins([optimizedImages], nextConfiguration);
+//
